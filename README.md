@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Passionate about Web Development and Programming.
 
 <p align="center">
-<img align="center" width='58%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-1704&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="center" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-1704&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </p>
